@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+ul {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+}
+
+#div-container{
+    max-width: 1000px;
+}
+
+.weather-card {
+    background: linear-gradient(135deg, rgb(119, 230, 255), rgb(222, 230, 76));
+    border: 1px solid grey;
+    border-radius: 15px;
+    margin: 0.2rem;
+}
+
+.icon{
+    color: yellow;
+    font-size: 2rem;
+}

@@ -1,0 +1,13 @@
+Nome traccia: js-weather-forecast
+
+Crea una pagina web dove mostrerai le previsioni del tempo nell'arco di 24 ore.
+
+	1. Utilizza i dati da questo database in formato JSON: https://drive.google.com/drive/u/1/folders/1QOovk3sETdaUaNfGG1Y8uYa-KkjTOEu_
+
+	2. Effettua una richiesta AJAX al file JSON per utilizzare i dati nel tuo file JavaScript.
+	
+	3. Utilizza la programmazione orientata agli oggetti per creare un'istanza per ogni ora delle previsioni. Crea una classe con un costruttore per creare le card, ed esportala come modulo.
+	
+	4. Al loro interno di ogni car inserirai i dati provenienti dal database.json utilizzando i getters. 
+	
+Crea tutte le card e mostrale in pagina come il seguente screenshot. In base alle condizioni metereologiche di quell'ora, dovrai mostrare l'icona appropriata e tutti i dati corretti.
